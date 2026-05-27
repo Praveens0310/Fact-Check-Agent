@@ -4,9 +4,9 @@
 
 ### *The AI-Powered Truth Layer for Any Document*
 
-> ### 🚀 [**▶ Try the Live App → factcheck-agentz.streamlit.app**](https://factcheck-agentz.streamlit.app/)
+> ### 🚀 [**▶ Try the Live App → truthlayer-factchecker.streamlit.app**](https://truthlayer-factchecker.streamlit.app/)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://factcheck-agentz.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://truthlayer-factchecker.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Praveens0310-181717?style=for-the-badge&logo=github)](https://github.com/Praveens0310/Fact-Check-Agent)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-F55036?style=for-the-badge)](https://groq.com)
@@ -96,7 +96,7 @@ graph LR
 ## 🚀 Quick Start
 
 ### Option 1 — Use the Live App
-👉 Visit **[factcheck-agentz.streamlit.app](https://factcheck-agentz.streamlit.app/)**
+👉 Visit **[truthlayer-factchecker.streamlit.app](https://truthlayer-factchecker.streamlit.app/)**
 - Get a free Groq API key from [console.groq.com/keys](https://console.groq.com/keys)
 - Upload your PDF → Click **Analyze Document**
 
