@@ -7,7 +7,7 @@
 > ### 🚀 [**▶ Try the Live App → factcheck-agentz.streamlit.app**](https://factcheck-agentz.streamlit.app/)
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://factcheck-agentz.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Harsh--karn-181717?style=for-the-badge&logo=github)](https://github.com/Harsh-karn/Fact_Check-Agent)
+[![GitHub](https://img.shields.io/badge/GitHub-Praveens0310-181717?style=for-the-badge&logo=github)](https://github.com/Praveens0310/Fact-Check-Agent)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-F55036?style=for-the-badge)](https://groq.com)
 [![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com)
@@ -104,7 +104,7 @@ graph LR
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Harsh-karn/Fact_Check-Agent.git
+git clone https://github.com/Praveens0310/Fact-Check-Agent.git
 cd Fact_Check-Agent
 
 # 2. Install dependencies
